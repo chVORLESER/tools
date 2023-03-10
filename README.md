@@ -4,4 +4,5 @@
 
 # 目前扒过的代码
 ✅ 微信2022多模态挑战赛baseline <br>
-✅ UPerNet
+✅ UPerNet <br>
+✅ CLIP
