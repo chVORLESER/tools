@@ -5,4 +5,6 @@
 # 目前扒过的代码
 ✅ 微信2022多模态挑战赛baseline <br>
 ✅ UPerNet <br>
-✅ CLIP
+✅ CLIP <br>
+✅ SN-Net <br>
+✅ GFPGAN <br>
